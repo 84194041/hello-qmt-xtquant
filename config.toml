@@ -1,0 +1,9 @@
+[app]
+project_name = "qmt-service"
+project_description = "qmt-service"
+project_version = "0.0.1"
+listen_host = "0.0.0.0"
+listen_port = 1000
+log_level = "DEBUG"
+servie_name = "qmtservice"
+api_address = "http://localhost:8000"
