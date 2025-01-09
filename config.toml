@@ -7,3 +7,4 @@ listen_port = 1000
 log_level = "DEBUG"
 servie_name = "qmtservice"
 api_address = "http://localhost:8000"
+investment_targets = "investment_targets.csv"

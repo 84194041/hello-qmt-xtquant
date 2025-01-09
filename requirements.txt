@@ -2,3 +2,8 @@ loguru~=0.7.2
 tomli~=2.0.1
 uvicorn==0.30.6
 fastapi==0.112.1
+schedule~=1.2.2
+apscheduler~=3.10.4
+darts~=0.30.0
+pathlib2~=2.3.7.post1
+
