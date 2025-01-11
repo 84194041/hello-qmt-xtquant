@@ -42,5 +42,6 @@ reload_debug = False
 api_address = app.get("api_address", "")
 service_name = app.get("service_name", "")
 investment_targets = app.get("investment_targets", "")
+program_dir = app.get("program_dir", "")
 
 logger.info(f"{project_name} v{project_version}")

@@ -19,7 +19,7 @@ def get_stock_data_as_dataframe(period='1d', start_time=None, end_time=None):
     :return: 包含股票数据的 pandas DataFrame
     """
     if start_time is None:
-        start_time = '20200101'
+        start_time = '20240101'
     if end_time is None:
         end_time = datetime.now().strftime('%Y%m%d%H%M%S')
     stock_list = get_targets_list_from_csv()
